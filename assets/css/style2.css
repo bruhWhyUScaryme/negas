@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    background:url(../img/ie_71144.jpeg);
+    
+}
+.parent{
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 700px;
+    height: 800px;
+    background: rgba(27, 27, 27, 0.616);
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: Montserrat;
+    border-radius: 7px;
+} 
+.email{
+    display: block;
+    width: 400px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.password{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 30px;
+    
+}
+.reset{
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    color: gray;
+}
+.submit{
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+    
+    
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    
+}
+.bruh{
+    margin-top: 100px;
+}
+.tel{
+    display: block;
+    width: 400px;
+    height: 30px;
+    margin: 0 auto;
+}
+a{
+    color: blue;
+    font-size: 15px;
+    margin-top: 60px;
+}
+h2{
+    margin-bottom: 30px;
+}
